@@ -1,0 +1,26 @@
+.container{
+    border: solid red 5px;
+    width: 50%;
+    height: 50%;
+    left: 100px;
+    position: absolute;
+}
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-bottom: 30px;
+    position: relative;
+    left: 700px;
+    top: 100px;
+}
+.circulo{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    position: fixed;
+    left: 1780px;
+    bottom: 20px;
+    
+}

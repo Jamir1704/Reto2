@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 295px;
+    height: 37px;
+    top: 71px;
+    left: 549px;
+    position: absolute;
+    
+    
+    
+}
+.TITULO{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 36.8px;
+    color: #000;
+    text-align: center;
+}
+.subtitulo1{
+    position: absolute;
+    width: 73px;
+    height: 28px;
+    left: 33px;
+    top: 165px;
+}
+
+.HOME{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700px;
+    font-size: 24px;
+    line-height: 28px;
+    color: #3B06D2;
+}
+.Lorem1{
+    width: 1367;
+    height: 114px;
+    left: 33px;
+    top: 209px;
+    position: absolute;
+    
+}
+.parrafo1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 26px;
+}
